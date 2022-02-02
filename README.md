@@ -1,4 +1,4 @@
-# RegistroEscuela+
+# RegistroEscuela
 
 Visualización
 
